@@ -1,7 +1,7 @@
 {
-  "name" : "portfolio",
-  "version" : "1.0.0",
-  "scripts" : {
+  "name": "ashay-portfolio",
+  "version": "1.0.0",
+  "scripts": {
     "start": "main.py"
   }
 
